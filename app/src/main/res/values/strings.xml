@@ -1,31 +1,175 @@
 <resources>
     <string name="app_name">Recipe</string>
-    <string name="txt"><br>Ingredients:\n</br>
+    burgers
+    <string-array name="items">
+        <item>Crispy Burger with honey mustard coleslaw</item>
+        <item>Roast Chicken &amp; Creamy Garlic Mushroom Burger</item>
+        <item>Cheesy Veggie burger</item>
+        <item>Cheesy Veggie Chickpea Burger</item>
+        <item>Crispy Fish Burger with Shoestring Fries</item>
+        //5
+        <item>Bite Sized Burgers</item>
+        <item>Thai Style Fish Burgers</item>
+        <item>Bite Sized Burgers</item>
+        <item>BBQ Beef Cheese Burgers</item>
+        <item>BBQ Chicken Burgers</item>
+        //10
+        <item>Beef &amp; Red Pepper Burgers</item>
+        <item>Easy Beef Burgers</item>
+        <item>Tilapia Fish Burgers</item>
+        <item>burger14</item>
+        <item>burger14</item>
 
- <br>-3 cups half-boiled polao rice\n</br>
- <br>-1 cup kalaiyera dal\n</br>
- <br>- Baking soda\n</br>
- <br>-1 teaspoon salt\n</br>
- <br>-1/2 teaspoon sugar\n</br>
- <br>- 1 cup of boiled potatoes\n</br>
- <br>- 1/2 cup steamed peas\n</br>
- <br>- Chop the onion as desired\n</br>
- <br>-One pinch or a pinch of whole cumin\n</br>
- <br>-Yellow chilli coriander cumin powder a little\n</br>
- <br>A pinch of hing (even if you don\'t give it)\n</br>
- <br>-Coriander leaves and raw chilli powder\n</br>
- <br>-A pinch of hot spice powder\n</br>
- <br>- A little oil\n</br>
+    </string-array>
 
- <br>Method:\n</br>
+    Recipe
+    <string name="b1_name">Crispy Burger with honey mustard coleslaw</string>
+    <string name="b1">Ingredients\n\n
+Chicken Marinade:\n
+3 large chicken breasts sliced into long, thick strips\n
+240 ml (1 cup) buttermilk\n
+½ tsp salt\n
+¼ tsp white pepper\n
+¼ tsp garlic salt\n\n
+Crispy Chicken Coating:\n
+180 g (1 1/2 cups) plain (all-purpose) flour\n
+1 tsp ground black pepper\n
+½ tsp garlic salt\n
+½ tsp celery salt\n
+1 tsp dried thyme\n
+1 tsp paprika\n
+1 tsp baking powder\n
+1 tsp chilli flakes\n\n
+Honey Mustard Coleslaw:\n
+1/3 white cabbage\n
+1 medium carrot peeled\n
+4 tbsp mayonnaise\n
+1 tbsp Dijon mustard\n
+1 tbsp honey\n
+2 tsp lemon juice\n
+pinch black pepper\n\n
+Also:\n
+vegetable oil for deep frying\n
+4 slices gouda cheese I used the ready-sliced kind, or you can slice it yourself (approx)\n
+4 brioche buns toasted\n
+8 pieces crunchy lettuce - I used O so sweet variety but Romaine or Little Gem are great too\n
+1-2 jalapenos sliced\n
+1/2 red onion peeled and thinly sliced\n\n
+Instructions\n
+- Place the chicken in a bowl.\n
+        - Add the buttermilk, salt, pepper and garlic salt. Mix together, cover and place in the fridge to marinade for at least 1 hour (up to over night)
+- Preheat the oven to a low heat (to keep cooked chicken warm).\n
+        Heat a large pan of vegetable oil (or preheat your deep fat fryer) until hot (you can test by dropping a small cube of bread in there, if it rises immediately to the top and starts to bubble rapidly, it’s hot enough).\n
+        -You’ll need at least 1 litre (4 cups) of oil - but make sure your pan is no more than one third full.\n
+-Mix together the crispy coating ingredients in a small bowl. Take the chicken out of the fridge.\n
+        -Lift a piece from the buttermilk and allow the excess to drip off. Dredge the chicken in the crispy coating mixture – ensuring it’s fully covered.\n
+        Place on a tray and repeat until all of the chicken is coated.\n
 
- -Soak rice and pulses for 6 hours.
- - Finely chop the rice and pulses and grind in a blender.
- Mix salt, sugar and water in the mixture and keep it at normal temperature for another 7/8 hours.  It won\'t be too thin, it will be a lot like a cake cake.
- -Heat oil and boil five cumin seeds or whole cumin seeds in it.  Put onion in it.  Add a little fried potatoes and peas.  Keep frying with all the spices.  When the raw feeling of spices is removed, sprinkle coriander leaves and green chillies and take it down.
- - Now brush the oil in a non-stick pan and heat on low heat.  When the oil is hot, pour one handful of dosa making mixture into the pot and spread it thinly and round with a spoon around the pot.
- - The lower part of the dosa becomes light brown and the edges rise. In fact, it must be understood that the dosa has become.  Put potato puree in between.
- - Care must be taken while lifting the dosa.  If you want, you can wrap it round or keep it straight.  You can do three corners again.
- -Every time before putting the dosa mixture in the pot, the pot should be wiped with a cloth and brushed with oil.  Otherwise the dosa will get stuck and tear during lifting.
- -Serve hot dosa with roasted pulses, vegetables, tamarind or olive chutney, coconut sweet chutney, mango pickle or yogurt.</string>
+- Once the oil is hot enough, add in 5 or 6 of the chicken tenders.\n
+        - You can add more or less depending on the size of your pan, just be sure not to overcrowd the chicken.\n
+        - Cook for 3-5 minutes until golden brown and cooked in the middle. You can check this by cutting open a piece of chicken, if it’s no longer pink in the middle, it’s cooked.\n
+
+- Place on a tray in the oven to keep warm whilst you cook the rest of the chicken.\n
+- Make the coleslaw by using a mandoline to julienne the cabbage and carrot (or you can slice thinly by hand).\n
+        - Place in a bowl with the mayonnaise, mustard, honey, lemon juice and black pepper. Stir together, then cover and refrigerate until needed.\n
+        - Now it is time to assemble. First, arrange the chicken tenders into four piles and place the gouda on top.\n
+        - Grill or place into a hot oven for a couple of minutes until just melted.\n
+- Place the bottom of the brioche buns on four plates. Top with the lettuce leaves, followed by the cheesy chicken pieces.</string>
+    <string name="b2_name">Roast Chicken &amp; Creamy Garlic Mushroom Burger</string>
+    <string name="b2"><br>Ingredients\n</br>
+<br>4 brioche burger rolls if you want to make them yourself, the recipe is here\n</br>
+<br>2 tbsp olive oil\n</br>
+<br>8 medium mushrooms chestnut or mini portabella are good, sliced\n</br>
+<br>Good pinch of salt and pepper\n</br>
+<br>6 rashers of streaky bacon smoked or unsmoked - depending on your preference, cut in half  widthways\n</br>
+<br>2 cloves garlic peeled and minced\n</br>
+<br>6 tbsp double/full fat cream\n</br>
+<br>1 cup (100g) strong cheddar cheese grated\n</br>
+<br>1 large handful of baby spinach leaves about 25g\n</br>
+<br>2 large well seasoned, roasted chicken breasts, sliced (skin left on) - I like to roast a whole chicken and use the breasts for this, and then the rest of the meat for soup like this\n</br>
+<br>\n</br>
+<br>Instructions\n</br>
+<br>Place two frying pans on a medium-to-high heat. Place 1.5tbsp oil in one, and 1/2 a tsp oil in the other. Once the oil is hot, place the sliced mushrooms, salt and pepper in the pan with more oil in, and the streaky bacon in the pan with less oil in. Cook both the mushrooms and the bacon until dark and a little crispy.\n</br>
+<br>Place the bacon and half of the mushrooms on a warm plate.\n</br>
+<br>Cut your brioche rolls in half and lightly toast the insides under the grill. When toasted, place the rolls cut-side-down in the bacon pan, and allow the rolls to cook a little more in the leftover bacon fat. Take out once the rolls are darker brown and the fat has been absorbed. Place the rolls on plates.\n</br>
+<br>Add the garlic to the remaining mushrooms and cook on a low heat for a minute, then add in the cream and cheese and bring it to a gentle bubble. Let it bubble lightly whilst you start putting the burgers together.\n</br>
+<br>Divide the spinach between the 4 burger rolls, then top with the fried mushrooms and sliced chicken. Spoon the cheesy mushroom sauce over the chicken and then top with the crispy bacon. Place the top of the burger roll on top and serve.\n</br></string>
+    <string name="b3_name">Cheesy Veggie burger</string>
+    <string name="b3"></string>
+    <string name="b4_name">Cheesy Veggie Chickpea Burger</string>
+    <string name="b4"></string>
+    <string name="b5_name">Melty Cheese Stuffed Burger</string>
+    <string name="b5"></string>
+    <string name="b6_name">Crispy Fish Burger with Shoestring Fries</string>
+    <string name="b6"></string>
+    <string name="b7_name">Thai Style Fish Burgers</string>
+    <string name="b7"></string>
+    <string name="b8_name">Bite Sized Burgers</string>
+    <string name="b8"></string>
+    <string name="b9_name">BBQ Beef Cheese Burgers</string>
+    <string name="b9"></string>
+    <string name="b10_name">BBQ Chicken Burgers</string>
+    <string name="b10"></string>
+    <string name="b11_name">Beef &amp; Red Pepper Burgers</string>
+    <string name="b11"></string>
+    <string name="b12_name">Easy Beef Burgers</string>
+    <string name="b12"></string>
+    <string name="b13_name">Tilapia Fish Burgers</string>
+    <string name="b13"></string>
+    <string name="b14_name"></string>
+    <string name="b14"></string>
+    <string name="b15_name"></string>
+    <string name="b15"></string>
+
+    pasta
+    <string-array name="pastaNames">
+        <item>Crispy Burger with honey mustard coleslaw</item>
+        <item>Roast Chicken &amp; Creamy Garlic Mushroom Burger</item>
+        <item>Cheesy Veggie burger</item>
+        <item>Cheesy Veggie Chickpea Burger</item>
+        <item>Crispy Fish Burger with Shoestring Fries</item>
+        //5
+        <item>Bite Sized Burgers</item>
+        <item>Thai Style Fish Burgers</item>
+        <item>Bite Sized Burgers</item>
+        <item>BBQ Beef Cheese Burgers</item>
+        <item>BBQ Chicken Burgers</item>
+        //10
+        <item>Beef &amp; Red Pepper Burgers</item>
+        <item>Easy Beef Burgers</item>
+        <item>Tilapia Fish Burgers</item>
+        <item>burger14</item>
+        <item>burger14</item>
+
+    </string-array>
+
+    Recipe
+    <string name="ps1">Ingredients\n
+450g beef mince (ideally 15-20% fat)\n
+2 tbsp Worcestershire sauce\n
+8 cheddar\n
+ or Red Leicester slices\n
+
+1 tbsp chipotle paste\n
+5 tbsp tomato ketchup\n
+2 tbsp mayonnaise\n
+\n
+To serve\n
+4 large soft brioche buns (available in Marks &amp; Spencer and Waitrose) or burger buns, halved\n
+4 thick leaves iceberg lettuces\n
+4 thick slices beefsteak tomatoes\n
+4 very thin slices red onions\n
+16 Bread &amp; butter pickles (see Goes well with) or 2 gherkins, thinly sliced\n
+\n
+
+Method\n
+Put the meat and Worcestershire sauce in a bowl and season with black pepper and 1 generous tsp salt. Mix together well, then shape the meat into 4 thin, flat burgers. Chill until needed. Can be made a day ahead. Combine the chipotle paste, ketchup and mayonnaise in a bowl to make a sauce.\n
+
+Heat a gas or charcoal barbecue to high (or you can use a griddle pan on the hob). Cook the burgers over direct heat for 2 mins each side or until grill marks appear. Top each with 2 slices of cheese and cook for another 30 secs or until melted, then remove from the heat. Toast the buns for a few seconds on the cut-side.\n
+
+Spread a little of the spicy sauce on the base of each bun and top with lettuce, tomato, a burger patty, onion and pickles. Top with the bun lid and devour immediately.\n</string>
+
+
+
+
 </resources>
